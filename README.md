@@ -11,8 +11,6 @@
 
 - 👯 I’m looking to collaborate on **AI, ML, DL**
 
-- 💬 Ask me about **Anything**
-
 - 📫 How to reach me **anuragdgp@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/anuragb24/](https://www.linkedin.com/in/anuragb24/)
