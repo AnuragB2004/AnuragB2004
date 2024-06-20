@@ -1,5 +1,6 @@
 # 💫 About Me:
-I'm a passionate Computer Science and Engineering student at KIIT University, with a knack for solving complex problems using AI and machine learning. <br>My journey has been marked by a series of impactful internships and research collaborations that have honed my technical skills and deepened my understanding of cutting-edge technologies.
+I'm a passionate Computer Science and Engineering student at KIIT University, with a knack for solving complex problems using AI and machine learning. 
+<br>My journey has been marked by a series of impactful internships and research collaborations that have honed my technical skills and deepened my understanding of cutting-edge technologies.
 
 
 ## 🌐 Socials:
@@ -17,9 +18,6 @@ I'm a passionate Computer Science and Engineering student at KIIT University, wi
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=AnuragB2004&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-### 😂 Random Dev Meme
-<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=AnuragB2004&icon=10&color=13)](https://visitcount.itsvg.in)
