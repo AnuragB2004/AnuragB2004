@@ -20,6 +20,5 @@ I'm a passionate Computer Science and Engineering student at KIIT University, wi
 ![](https://github-contributor-stats.vercel.app/api?username=AnuragB2004&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=AnuragB2004&icon=10&color=13)](https://visitcount.itsvg.in)
-
+[![](https://visitcount.itsvg.in/api?id=AnuragB2004&label=Profile%20Views&icon=5&pretty=true)](https://visitcount.itsvg.in)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
