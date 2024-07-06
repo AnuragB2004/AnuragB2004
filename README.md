@@ -43,6 +43,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anuragb2004&show_icons=true&locale=en" alt="anuragb2004" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anuragb2004&" alt="anuragb2004" /></p>
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=AnuragB2004&theme=meta-dark)](https://git.io/streak-stats)
