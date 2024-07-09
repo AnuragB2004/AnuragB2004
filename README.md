@@ -43,7 +43,8 @@
 <h3 align="left">Languages Used:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuragb2004&show_icons=true&locale=en&layout=compact" alt="anuragb2004" /></p>
 
-<h3 align="left">Stats:</h3>
+<h3 align="center">Stats:</h3>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anuragb2004&show_icons=true&locale=en" alt="anuragb2004" /></p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=AnuragB2004&theme=meta-dark)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=AnuragB2004" alt="GitHub Streak" /></a>
+[![GitHub Streak](https://streak-stats.demolab.com?user=AnuragB2004)](https://git.io/streak-stats)
