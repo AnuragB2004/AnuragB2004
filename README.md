@@ -47,4 +47,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anuragb2004&show_icons=true&locale=en" alt="anuragb2004" /></p>
 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=AnuragB2004" alt="GitHub Streak" /></a>
-[![GitHub Streak](https://streak-stats.demolab.com?user=AnuragB2004)](https://git.io/streak-stats)
