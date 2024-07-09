@@ -1,7 +1,7 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Anurag+Bhattacharjee!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Anurag!;" />
 </h1>
-<h3 align="center">I'm a passionate AI-ML Developer from India. My journey has been marked by a series of impactful internships and international research collaborations that have honed my technical skills and deepened my understanding of cutting-edge technologies.</h3>
+<h3 align="center">I'm a passionate AI-ML Developer from India 😉</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=anuragb2004&label=Profile%20views&color=b2f202&style=plastic" alt="anuragb2004" /> </p>
 
