@@ -1,8 +1,9 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Anurag!;" />
 </h1>
-<h3 align="center">I'm a passionate AI-ML Developer from India 😉</h3>
-
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=I'm+a+passionate+AI-ML+Developer+from+India;" />
+</h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=anuragb2004&label=Profile%20views&color=b2f202&style=plastic" alt="anuragb2004" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anuragb2004" alt="anuragb2004" /></a> </p>
