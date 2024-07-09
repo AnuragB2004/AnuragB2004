@@ -14,13 +14,13 @@
 
 - 👯 I’m looking to collaborate on **AI, ML, DL and related research works**
 
-- 👨‍💻 All of my projects are available at [https://github.com/AnuragB2004](https://github.com/AnuragB2004)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/AnuragB2004)
 
 - 💬 Ask me about **my projects, experiences and lot of stuff**
 
-- 📫 How to reach me **anuragdgp@gmail.com**
+- 📫 Reach me @ my [email](mailto:anuragdgp@gmail.com)
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/anuragb24/](https://www.linkedin.com/in/anuragb24/)
+- 📄 Connect over [LinkedIn](https://www.linkedin.com/in/anuragb24/)
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
