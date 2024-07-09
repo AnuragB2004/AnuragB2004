@@ -46,4 +46,9 @@
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=AnuragB2004" alt="GitHub Streak" /></a>
 
 <h3 align="center">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/https://buymeacoffee.com/anuragb"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://buymeacoffee.com/anuragb" /></a></p><br><br>
+<p style="text-align:center;">
+    <a href="https://www.buymeacoffee.com/https://buymeacoffee.com/anuragb">
+        <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://buymeacoffee.com/anuragb" />
+    </a>
+</p>
+
